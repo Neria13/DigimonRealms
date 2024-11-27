@@ -1,0 +1,54 @@
+{
+    "rumorsReal": [{
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }
+    ],
+	"rumorsDigi": [{
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }, {
+            "rumDesc": "",
+			"rumLink": ""
+        }
+    ],	
+}
