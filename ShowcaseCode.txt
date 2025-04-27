@@ -1,0 +1,92 @@
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://fonts.googleapis.com/css?family=Unica+One" rel="stylesheet" type="text/css"/>
+<div style="width: fit-content;">
+	<div class="charBox" id="charRit" style="background: url(https://placehold.co/194x145);">
+		<div class="charBoxCont">
+			<center>
+				<div id="UbRit" class="charBoxÜb">
+					                         Überschrift                         
+				</div>
+			</center>
+			<div id="TxRit" class="charBoxText">
+				                        Stichpunkt 1<br/> Stichpunkt 2 <br/> Stichpunkt 3 <br/>Stichpunkt 4 <br/>Stichpunkt 5                        
+			</div>
+		</div>
+	</div>
+	<!--                          --------------------                          -->
+	<div class="charBox" id="charKri" style="background: url(https://placehold.co/194x145);">
+		<div class="charBoxCont">
+			<center>
+				<div id="UbKri" class="charBoxÜb">
+					                         Überschrift                         
+				</div>
+			</center>
+			<div id="TxKri" class="charBoxText">
+				                        Stichpunkt 1<br/> Stichpunkt 2 <br/> Stichpunkt 3 <br/>Stichpunkt 4 <br/>Stichpunkt 5                        
+			</div>
+		</div>
+	</div>
+	<!--                          --------------------                          -->
+	<div class="charBox" id="charZei" style="background: url(https://placehold.co/194x145);">
+		<div class="charBoxCont">
+			<center>
+				<div id="UbZei" class="charBoxÜb">
+					                         Überschrift                         
+				</div>
+			</center>
+			<div id="TxZei" class="charBoxText">
+				                        Stichpunkt 1<br/> Stichpunkt 2 <br/> Stichpunkt 3 <br/>Stichpunkt 4 <br/>Stichpunkt 5                        
+			</div>
+		</div>
+	</div>
+	<!--                          --------------------                          -->
+	<div class="charBox" id="charDigi" style="background: url(https://placehold.co/194x145);">
+		<div class="charBoxCont">
+			<center>
+				<div id="UbDigi" class="charBoxÜb">
+					                         Überschrift                         
+				</div>
+			</center>
+			<div id="TxDigi" class="charBoxText">
+				                        Stichpunkt 1<br/> Stichpunkt 2 <br/> Stichpunkt 3 <br/>Stichpunkt 4 <br/>Stichpunkt 5                        
+			</div>
+		</div>
+	</div>
+	<script>
+const url = "https://neria13.github.io/DigimonRealms/ShowcaseModule.json";
+fetch(url).then((response)=>response.json())
+.then((json)=> get_random_from_data(json))
+
+function get_random_from_data(json) {
+console.log(json);
+
+// number generation
+var RitRand = Math.round(Math.random()*(json["ritter"].length-1));
+var KriRand = Math.round(Math.random()*(json["krieger"].length-1));
+var ZeiRand = Math.round(Math.random()*(json["zeitlos"].length-1));
+var DigiRand = Math.round(Math.random()*(json["digizivi"].length-1));
+
+// ritter assignment
+document.getElementById("UbRit").innerHTML = json["ritter"][RitRand]["ritUb"];
+document.getElementById("TxRit").innerHTML = json["ritter"][RitRand]["ritTx"];
+document.getElementById("charRit").style.backgroundImage= "url(" + json["ritter"][RitRand]["ritPic"] + ")";
+
+// krieger assignment
+document.getElementById("UbKri").innerHTML = json["krieger"][KriRand]["kriUb"];
+document.getElementById("TxKri").innerHTML = json["krieger"][KriRand]["kriTx"];
+document.getElementById("charKri").style.backgroundImage= "url(" + json["krieger"][KriRand]["kriPic"] + ")";
+
+// zeitlos assignment
+document.getElementById("UbZei").innerHTML = json["zeitlos"][ZeiRand]["zeiUb"];
+document.getElementById("TxZei").innerHTML = json["zeitlos"][ZeiRand]["zeiTx"];
+document.getElementById("charZei").style.backgroundImage= "url(" + json["zeitlos"][ZeiRand]["zeiPic"] + ")";
+
+// digizivi assignment
+document.getElementById("UbDigi").innerHTML = json["digizivi"][DigiRand]["digiUb"];
+document.getElementById("TxDigi").innerHTML = json["digizivi"][DigiRand]["digiTx"];
+document.getElementById("charDigi").style.backgroundImage= "url(" + json["digizivi"][DigiRand]["digiPic"] + ")";
+}
+
+</script>
+</div>
+<style> .charBox {vertical-align: top; display: inline-block; width: 190px; height: 145px; margin: 10px 0px 15px 5px;border: solid 1px #fff;} .charBoxÜb {vertical-align: top; display: inline-block; font-family: Unica One; font-size: 17px; color: #3f728f; margin-bottom: 5px;} .charBoxCont {vertical-align: top; display: inline-block; width: 190px; height: 115px; opacity: 0; line-height: 18px; text-align: justify; font-size: 12px; color: #333; font-family: Arial} .charBoxCont:hover{vertical-align: top; display: inline-block; font-size: 12px; color: #333; font-family: Arial; background: rgba(250, 250, 250, 0.7); width: 160px; height: 115px; border: solid 5px rgba(0, 0, 0, 0.3); padding: 10px; line-height: 18px;  opacity: 1; text-align: justify;transition: 0.7s;} .charBoxText{padding: 5px;}</style>

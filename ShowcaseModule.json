@@ -1,302 +1,274 @@
 {
-    "warden": [{
-            "wardUb": "Amato Lupo",
-            "wardTx": "Warden, Digiritter<br>25 Jahre, Ravenna<br>Wappen der Furchtlosigkeit<br>Student & Sänger<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/amato10.png"
+    "ritter": [{
+            "ritUb": "Aimee-Lai Anderson",
+            "ritTx": "25 Jahre alt<br/>Wohnt in Sydney<br/>Wappen der Kampfeslust<br/>Philosophiestudentin<br/>Keine Untergruppe",
+            "ritPic": "https://i89.servimg.com/u/f89/17/70/12/89/aimee10.png"
+        },	{
+            "ritUb": "Akira Tsubaki",
+            "ritTx": "20 Jahre alt<br>Wohnt in Tokio<br>Wappen des Ehrgeiz<br>Koch<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/akira10.png"
+        },	{
+            "ritUb": "Amato Lupo",
+            "ritTx": "25 Jahre alt<br>Wohnt in Ravenna<br>Wappen der Furchtlosigkeit<br>Student & Sänger<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/amato10.png"
         }, {
-            "wardUb": "Aydrien Kingsleigh",
-            "wardTx": "Warden, Digikrieger<br>31 Jahre, New York<br>Spirit der Träume<br>Museumsmitarbeiter<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/adry10.png"
+            "ritUb": "Cleophane Zorbas",
+            "ritTx": "17 Jahre alt<br>Wohnt in Tokio<br>Wappen der Friedfertigkeit<br>Schülerin<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/cleo10.png"
         }, {
-            "wardUb": "Cassander Zorbas",
-            "wardTx": "Warden, Digikrieger<br>17 Jahre, Tokio<br>Spirit der Hilflosigkeit<br>Schüler<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/cass10.png"
+            "ritUb": "Cole Maekawa",
+            "ritTx": "21 Jahre alt<br/>Wohnt in Sydney<br/>Wappen der Lebensfreude<br/>Cafébesitzer & Student<br/>Keine Untergruppe",
+            "ritPic": "https://i89.servimg.com/u/f89/17/70/12/89/cole10.png"
+        },	{
+            "ritUb": "Daryan Fires",
+            "ritTx": "22 Jahre alt<br/>Wohnt in Manhatten<br/>Wappen der Tapferkeit<br/>Skifahrer<br/>Keine Untergruppe",
+            "ritPic": "https://i89.servimg.com/u/f89/17/70/12/89/daryan10.png"
+        },	{
+            "ritUb": "Felix Winter",
+            "ritTx": "19 Jahre alt<br/>Wohnt in Tokio<br/>Wappen der Freundschaft<br/>Koch<br/>Keine Untergruppe",
+            "ritPic": "https://i89.servimg.com/u/f89/17/70/12/89/felix10.png"
+        },	{
+            "ritUb": "Hellzel Fuun",
+            "ritTx": "30 Jahre alt<br>Wohnt in Tokio<br>Wappen der Gelassenheit<br>Informant & Mafioso<br>Krakenhöhle",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/hell10.png"
+        },	{
+            "ritUb": "Joey Norberg",
+            "ritTx": "22 Jahre alt<br/>Wohnt in Skarsvag<br/>Wappen der Erkenntnis<br/>Skifahrer & Drucktechniker<br/>Keine Untergruppe",
+            "ritPic": "https://i89.servimg.com/u/f89/17/70/12/89/joey10.png"
+        },	{
+            "ritUb": "Jacob Willians",
+            "ritTx": "24 Jahre alt<br>Wohnt in Texas<br>Spirit der Rachsucht<br>Mitarbeiter Sicherheitsfirma<br>Dark Wings",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/jacob10.png"
+        },	{
+            "ritUb": "Logan Sunfield",
+            "ritTx": "22 Jahre alt<br/>Wohnt in Stockholm<br/>Wappen der Hartnäckigkeit<br/>Sportsoldat<br/>Keine Untergruppe",
+            "ritPic": "https://i89.servimg.com/u/f89/17/70/12/89/logan10.png"
+        },	{
+            "ritUb": "Lyserg Griffiths",
+            "ritTx": "23 Jahre alt<br>Wohnt in Las Vegas<br>Wappen der Irreführung<br>Schauspielstudent<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/lyserg10.png"
+        },	{
+            "ritUb": "Mia Kaya",
+            "ritTx": "17 Jahre alt<br>Wohnt in Köln<br>Wappen des Egoismus<br>Schülerin<br>Krakenhöhle",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/mia10.png"
+        },	{
+            "ritUb": "Myeong Yi",
+            "ritTx": "17 Jahre alt<br>Wohnt in Tokio<br>Wappen der Eifersucht<br>Schülerin<br>Keine Untergruppe",
+            "ritPic": "https://i.servimg.com/u/f49/15/65/71/86/tm/miau10.png"
         }, {
-            "wardUb": "Cleophane Zorbas",
-            "wardTx": "Warden, Digiritter<br>17 Jahre, Tokio<br>Wappen der Friedfertigkeit<br>Schülerin<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/cleo10.png"
-        }, {
-            "wardUb": "Hiyori Sakai",
-            "wardTx": "Warden, Digikrieger<br>17 Jahre, Tokio<br>Spirit der Rebellion<br>Schülerin<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/verm10.png"
-        }, {
-            "wardUb": "Isami Miyazawa",
-            "wardTx": "Warden, Digikrieger<br>25 Jahre, Tokio<br>Spirit der Lust<br>Polizeiinspektor<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/isami10.png"
-        }, {
-            "wardUb": "Manuel Gübelin",
-            "wardTx": "Warden, Digikrieger<br>12 Jahre, Vaduz<br>Spirit des Lichts<br>Ausbildung zum Friseur<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/manu10.png"
-        }, {
-            "wardUb": "Mozaato Toshio",
-            "wardTx": "Warden, Digikrieger<br>29 Jahre, Tokio<br>Spirit der Panik<br>Social-Media Berühmtheit<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/moza10.png"
-        }, {
-            "wardUb": "Myeong Yi",
-            "wardTx": "Warden, Digiritter<br>17 Jahre, Tokio<br>Wappen der Eifersucht<br>Schülerin<br>Keine Untergruppe",
-            "wardPic": "https://i.servimg.com/u/f49/15/65/71/86/tm/miau10.png"
-        }, {
-            "wardUb": "Saburo Sazuka",
-            "wardTx": "Warden, Digikrieger<br>16 Jahre, Zürich<br>Spirit der Freiheit<br>Schüler<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/saburo10.png"
-        }, {
-            "wardUb": "Shina Kawasaki",
-            "wardTx": "Warden, Digiritter<br>17 Jahre, Tokio<br>Wappen der Schönheit<br>Schülerin<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/shina10.png"
-        }, {
-            "wardUb": "Sova",
-            "wardTx": "Warden, Zeitlos<br>20 Jahre, Sarajevo<br>Spirit des Instinkts<br>Voleyballer & Fussballer<br>Keine Untergruppe",
-            "wardPic": "https://i49.servimg.com/u/f49/15/65/71/86/sova10.png"
+            "ritUb": "Nero Luce",
+            "ritTx": "22 Jahre alt<br>Wohnt in Tokio<br>Spirit der Gewalt<br>Kellner im Familienbetrieb<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/nero10.png"
+        },	{
+            "ritUb": "Noelle Lavigne",
+            "ritTx": "28 Jahre alt<br>Wohnt in Las Vegas<br>Wappen der Korruption<br>Stabsoffizier der Marine<br>Iron Hold",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/noelle12.png"
+        },	{
+            "ritUb": "Selvaggia Samra",
+            "ritTx": "16 Jahre alt<br>Wohnt in Escalades-Engordany<br>Wappen der Transparenz<br>Schülerin<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/selv10.png"
+        },	{
+            "ritUb": "Shina Kawasaki",
+            "ritTx": "17 Jahre alt<br>Wohnt in Tokio<br>Wappen der Schönheit<br>Schülerin<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/shina10.png"
+        },	{
+            "ritUb": "Sonanon Nanonet",
+            "ritTx": "19 Jahre alt<br>Durch die Welt reisend<br>Wappen der Albernheit<br>Puppenmacher<br>Keine Untergruppe",
+            "ritPic": "https://i49.servimg.com/u/f49/15/65/71/86/sonano10.png"
         }
     ],
-    "conqueror": [{
-            "conqUb": "Aurora",
-            "conqTx": "Conqueror, Zeitlos<br>25 Jahre, Paris<br>Spirit des Wahnsinns<br>Diva & Schauspielerin<br>Conqueror der Käferarmee",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/aurora11.png"
+    "krieger": [{
+            "kriUb": "Anew McKenzie",
+            "kriTx": "16 Jahre alt<br/>Wohnt in Sydney<br/>Spirit der Selbstlosigkeit<br/>Schülerin<br/>Keine Untergruppe",
+            "kriPic": "https://i89.servimg.com/u/f89/17/70/12/89/anew10.png"
+        },	{
+            "kriUb": "Aydrien Kingsleigh",
+            "kriTx": "31 Jahre alt<br>Wohnt in New York<br>Spirit der Träume<br>Museumsmitarbeiter<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/adry10.png"
+        },	{
+            "kriUb": "Camelia Pennysworth",
+            "kriTx": "18 Jahre alt<br>Wohnt in Tokio<br>Spirit der Einbildung<br>Schülerin<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/came10.png"
+        },	{
+            "kriUb": "Cassander Zorbas",
+            "kriTx": "17 Jahte alt<br>Wohnt in Tokio<br>Spirit der Hilflosigkeit<br>Schüler<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/cass10.png"
+        },	{
+            "kriUb": "Edward Knox",
+            "kriTx": "19 Jahre alt<br>Wohnt in New York<br>Spirit des Optimismus<br>Student<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/edward10.png"
+        },	{
+            "kriUb": "Eve Campbell",
+            "kriTx": "19 Jahre alt<br>Wohnt in Sydney<br>Spirit der Verruchtheit<br>Gang-Mitglied<br>East Side Riders",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/eve11.png"
+        },	{
+            "kriUb": "Florian Niwa",
+            "kriTx": "27 Jahre alt<br/>Wohnt in Sydney<br/>Spirit der Fragilität<br/>Künstler<br/>Keine Untergruppe",
+            "kriPic": "https://i89.servimg.com/u/f89/17/70/12/89/floria10.png"
+        },	{
+            "kriUb": "Gil Statice",
+            "kriTx": "18 Jahre alt<br/>Wohnt in Tokyo<br/>Spirit der Schuld<br/>Spieletester & Schüler<br/>Keine Untergruppe",
+            "kriPic": "https://i89.servimg.com/u/f89/17/70/12/89/gil10.png"
+        },	{
+            "kriUb": "Gniewomir Symanski",
+            "kriTx": "12 Jahre alt<br>Wohnt in Zakopane<br>Spirit des Respekts<br>Schüler<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/gnie10.png"
+        },	{
+            "kriUb": "Hiyori Sakai",
+            "kriTx": "17 Jahre alt<br>Wohnt in Tokio<br>Spirit der Rebellion<br>Schülerin<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/verm10.png"
+        },	{
+            "kriUb": "Isami Miyazawa",
+            "kriTx": "25 Jahre alt<br>Wohnt in Tokio<br>Spirit der Lust<br>Polizeiinspektor<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/isami10.png"
+        },	{
+            "kriUb": "Liliana Bishop",
+            "kriTx": "26 Jahre alt<br/>Wohnt in Las Vegas<br/>Spirit der Verzweiflung<br/>Model & Schauspielagentur<br>Keine Untergruppe",
+            "kriPic": "https://i89.servimg.com/u/f89/17/70/12/89/lilian10.png"
+        },	{
+            "kriUb": "Manuel Gübelin",
+            "kriTx": "12 Jahre alt<br>Wohnt in Vaduz<br>Spirit des Lichts<br>Ausbildung zum Friseur<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/manu10.png"
+        },	{
+            "kriUb": "Mozaato Toshio",
+            "kriTx": "29 Jahre alt<br>Wohnt in Tokio<br>Spirit der Panik<br>Social-Media Berühmtheit<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/moza10.png"
+        },	{
+            "kriUb": "Noah Levi",
+            "kriTx": "21 Jahre alt<br>Wohnt in Sydney<br>Spirit der Zugehörigkeit<br>Auftragskiller<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/noah10.png"
+        },	{
+            "kriUb": "Saburo Sazuka",
+            "kriTx": "16 Jahre alt<br>Wohnt in Zürich<br>Spirit der Freiheit<br>Schüler<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/saburo10.png"
         }, {
-            "conqUb": "Camelia Pennysworth",
-            "conqTx": "Conqueror, Digikrieger<br>18 Jahre, Tokio<br>Spirit der Einbildung<br>Schülerin<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/came10.png"
+            "kriUb": "Serena Suzuki",
+            "kriTx": "18 Jahre alt<br>Wohnt in Tokio<br>Spirit des Wassers<br>Oberschülerin<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/serena10.png"
+        },	{
+            "kriUb": "Trefford Vivas",
+            "kriTx": "20 Jahre alt<br>Wohnt in Sydney<br>Spirit des Schutzes<br>Student Meeresbiologie<br>Servivo",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/treffo10.png"
+        },	{
+            "kriUb": "Valu DBD Knezevic",
+            "kriTx": "22 Jahre alt<br>Reist durch die Welt<br>Spirit der Risikobereitschaft<br>Arbeitslos<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/valu10.png"
+        },	{
+            "kriUb": "Victoria McKenzie",
+            "kriTx": "32 Jahre alt<br>Wohnt in Sydney<br>Spirit der Unbeugsamkeit<br>Staatsanwältin<br>East Side Riders",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/vic10.png"
         }, {
-            "conqUb": "Eve Campbell",
-            "conqTx": "Conqueror, Digirkrieger<br>19 Jahre, Sydney<br>Spirit der Verruchtheit<br>Gang-Mitglied<br>East Side Riders",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/eve11.png"
-        }, {
-            "conqUb": "Hellzel Fuun",
-            "conqTx": "Conqueror, Digiritter<br>30 Jahre, Tokio<br>Wappen der Gelassenheit<br>Informant & Mafioso<br>Conqueror der Krakenhöhle",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/hell10.png"
-        }, {
-            "conqUb": "Jacob Willians",
-            "conqTx": "Conqueror, Digiritter<br>24 Jahre, Texas<br>Spirit der Rachsucht<br>Mitarbeiter Sicherheitsfirma<br>Dark Wings",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/jacob10.png"
-        }, {
-            "conqUb": "Kanna",
-            "conqTx": "Conqueror, Zeitlos<br>16 Jahre, Tokio<br>Spirit der Mystik<br>Buffetmitarbeiterin<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/kanna10.png"
-        }, {
-            "conqUb": "Mia Kaya",
-            "conqTx": "Conqueror, Digiritter<br>17 Jahre, Köln<br>Wappen des Egoismus<br>Schülerin<br>Conqueror der Krakenhöhle",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/mia10.png"
-        }, {
-            "conqUb": "Milos",
-            "conqTx": "Conqueror, Zeitlos<br>20 Jahre, reisend<br>Spirit der Furcht<br>Kriegsteilnehmer<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/milos10.png"
-        }, {
-            "conqUb": "Nee",
-            "conqTx": "Conqueror, Digimon<br>//, reisend<br>Spirit der Erde<br>Nichtsnutz<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/nee10.png"
-        }, {
-            "conqUb": "Nero Luce",
-            "conqTx": "Conqueror, Digiritter<br>22 Jahre, Tokio<br>Spirit der Gewalt<br>Kellner im Familienbetrieb<br>Conqueror der Käferarmee",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/nero10.png"
-        }, {
-            "conqUb": "Noah Levi",
-            "conqTx": "Conqueror, Digikrieger<br>21 Jahre, Sydney<br>Spirit der Zugehörigkeit<br>Auftragskiller<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/noah10.png"
-        }, {
-            "conqUb": "Patch",
-            "conqTx": "Conqueror, Digimon<br>/7, Halloween Town<br>Wappen des Schabernacks<br>Feldgeist & Urban Legend<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/patch10.png"
-        }, {
-            "conqUb": "Sting",
-            "conqTx": "Conqueror, Digimom<br>//, Leidia<br>Spirit der Stärke<br>Ausbildner<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/sting10.png"
-        }, {
-            "conqUb": "Tocat",
-            "conqTx": "Conqueror, Zeitlos<br>24 Jahre, New York<br>Spirit des Neids<br>Hacker<br>Keine Untergruppe",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/tocat10.png"
-        }, {
-            "conqUb": "Victoria McKenzie",
-            "conqTx": "Conqueror, Digikrieger<br>32 Jahre, Sydney<br>Spirit der Unbeugsamkeit<br>Staatsanwältin<br>East Side Riders",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/vic10.png"
-        }, {
-            "conqUb": "Zachary Jones",
-            "conqTx": "Conqueror, Digikrieger<br>32 Jahre, Sydney<br>Spirit des Widerstands<br>Tättowierer & Piercer<br>East Side Riders",
-            "conqPic": "https://i49.servimg.com/u/f49/15/65/71/86/zach10.png"
+            "kriUb": "Wilhelmina Lanskaya",
+            "kriTx": "16 Jahre alt<br>Wohnt in London<br>Wappen der Zufriedenheit<br>Schülerin<br>Keine Untergruppe",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/wilhel10.png"
+        },	{
+            "kriUb": "Zachary Jones",
+            "kriTx": "32 Jahre alt<br>Wohnt in Sydney<br>Spirit des Widerstands<br>Tättowierer & Piercer<br>East Side Riders",
+            "kriPic": "https://i49.servimg.com/u/f49/15/65/71/86/zach10.png"
         }
     ],
-    "council": [{
-            "councUb": "Akira Tsubaki",
-            "councTx": "Council, Digiritter<br>20 Jahre, Tokio<br>Wappen des Ehrgeiz<br>Koch<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/akira10.png"
+    "zeitlos": [{
+            "zeiUb": "Atticus",
+            "zeiTx": "27 Jahre alt<br>Wohnt in Tokio<br>Wappen des Tiefsinn<br>Marketingassistent<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/atticu10.png"
+        },	{
+            "zeiUb": "Aurora",
+            "zeiTx": "25 Jahre alt<br>Wohnt in Paris<br>Spirit des Wahnsinns<br>Diva & Schauspielerin<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/aurora11.png"
+        },	{
+            "zeiUb": "Bailey",
+            "zeiTx": "23 Jahre alt<br>Durch die Welt reisend<br>Spirit der Strategie<br>Kriegsstratege<br>Kirche des Ewigen",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/bailey12.png"
+        },	{
+            "zeiUb": "Catherine",
+            "zeiTx": "24 Jahre alt<br>Wohnt in der Digiwelt<br>Spirit der Hingabe<br>Erzbischöfin<br>Kirche des Ewigen",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/cath10.png"
+        },	{
+            "zeiUb": "Gin",
+            "zeiTx": "23 Jahre alt<br/>Wohnt in Kyoto<br/>Spirit der Spiritualität<br/>Schrein- & Tempelpriester<br/>Keine Untergruppe",
+            "zeiPic": "https://i89.servimg.com/u/f89/17/70/12/89/gin10.png"
         }, {
-            "councUb": "Atticus",
-            "councTx": "Council, Zeitlos<br>27 Jahre, Tokio<br>Wappen des Tiefsinn<br>Marketingassistent<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/atticu10.png"
-        }, {
-            "councUb": "Bailey",
-            "councTx": "Council, Zeitlos<br>23 Jahre, reisend<br>Spirit der Strategie<br>Kriegsstratege<br>Kirche des Ewigen",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/bailey12.png"
-        }, {
-            "councUb": "Catherine",
-            "councTx": "Council, Zeitlos<br>24 Jahre, Digiwelt<br>Spirit der Hingabe<br>Erzbischöfin<br>Kirche des Ewigen",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/cath10.png"
-        }, {
-            "councUb": "Edward Knox",
-            "councTx": "Council, Digikrieger<br>19 Jahre, New York<br>Spirit des Optimismus<br>Student<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/edward10.png"
-        }, {
-            "councUb": "Gniewomir Symanski",
-            "councTx": "Council, Digikrieger<br>12 Jahre, Zakopane<br>Spirit des Respekts<br>Schüler<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/gnie10.png"
-        }, {
-            "councUb": "Lorena",
-            "councTx": "Council, Zeitlos<br>19 Jahre, Tokio<br>Spirit der Bescheidenheit<br>Sängerin & Leiterin<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/lorena10.png"
-        }, {
-            "councUb": "Lyserg Griffiths",
-            "councTx": "Council, Digiritter<br>23 Jahre, Las Vegas<br>Wappen der Irreführung<br>Schauspielstudent<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/lyserg10.png"
-        }, {
-            "councUb": "Serena Suzuki",
-            "councTx": "Council, Digikrieger<br>18 Jahre, Tokio<br>Spirit des Wassers<br>Oberschülerin<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/serena10.png"
-        }, {
-            "councUb": "Shi-Woo",
-            "councTx": "Council, Zeitlos<br>20 Jahre, Seoul<br>Spirit des Verständnis<br>Produktprüfer & Tester<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/shiwoo10.png"
-        }, {
-            "councUb": "Sonanon Nanonet",
-            "councTx": "Countil, Digiritter<br>19 Jahre, reisend<br>Wappen der Albernheit<br>Puppenmacher<br>Keine Untergruppe",
-            "councPic": "https://i49.servimg.com/u/f49/15/65/71/86/sonano10.png"
+            "zeiUb": "Goro",
+            "zeiTx": "27 Jahre alt<br>Wohnt in Tokio<br>Spirit der Entspannung<br>Auftragsarbeiter<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/goro10.png"
+        },	{
+            "zeiUb": "Jovan",
+            "zeiTx": "22 Jahre alt<br/>Reist durch die Welt<br/>Spirit der Negligenz<br/>Arbeitslos<br/>Keine Untergruppe",
+            "zeiPic": "https://i89.servimg.com/u/f89/17/70/12/89/jovan10.png"
+        },	{
+            "zeiUb": "Kanna",
+            "zeiTx": "16 Jahre alt<br>Wohnt in Tokio<br>Spirit der Mystik<br>Buffetmitarbeiterin<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/kanna10.png"
+        },	{
+            "zeiUb": "Lilith",
+            "zeiTx": "23 Jahre alt<br/>Reist durch die Welt<br/>Spirit der Dunkelheit<br/>Arbeitslos<br/>Keine Untergruppe",
+            "zeiPic": "https://i89.servimg.com/u/f89/17/70/12/89/lilith10.png"
+        },	{
+            "zeiUb": "Lorena",
+            "zeiTx": "19 Jahre alt<br>Wohnt in Tokio<br>Spirit der Bescheidenheit<br>Sängerin & Leiterin<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/lorena10.png"
+        },	{
+            "zeiUb": "Milos",
+            "zeiTx": "20 Jahre alt<br>Reist durch die Welt<br>Spirit der Furcht<br>Kriegsteilnehmer<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/milos10.png"
+        },	{
+            "zeiUb": "Nikki",
+            "zeiTx": "20 Jahre alt<br>Wohnt in Tokio<br>Spirit der Zuneigung<br>Influencer & Streamer<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/nikki10.png"
+        },	{
+            "zeiUb": "Rymea",
+            "zeiTx": "16 Jahre alt<br>Wohnt in der Digiwelt<br>Spirit des Windes<br>Schülerin<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/rymea10.png"
+        },	{
+            "zeiUb": "Saphira",
+            "zeiTx": "25 Jahre alt<br>Lebt in New Yoru<br>Spirit des Feuers<br>Teehändlerin<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/saph10.png"
+        },	{
+            "zeiUb": "Sharlana",
+            "zeiTx": "17 Jahre alt<br>Wohnt in Tokio<br>Spirit der Naivität<br>Mädchen für alles<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/sharla10.png"
+        },	{
+            "zeiUb": "Shi-Woo",
+            "zeiTx": "20 Jahre alt<br>Wohnt in Seoul<br>Spirit des Verständnis<br>Produktprüfer & Tester<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/shiwoo10.png"
+        },	{
+            "zeiUb": "Sova",
+            "zeiTx": "20 Jahre alt<br>Wohnt in Sarajevo<br>Spirit des Instinkts<br>Voleyballer & Fussballer<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/sova10.png"
+        },	{
+            "zeiUb": "Tocat",
+            "zeiTx": "24 Jahre alt<br>Wohnt in New York<br>Spirit des Neids<br>Hacker<br>Keine Untergruppe",
+            "zeiPic": "https://i49.servimg.com/u/f49/15/65/71/86/tocat10.png"
         }
     ],
-    "vacanter": [{
-            "vacUb": "Aimee-Lai Anderson",
-            "vacTx": "Vacanter, Digiritter<br/>25 Jahre, Sydney<br/>Wappen der Kampfeslust<br/>Philosophiestudentin<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/aimee10.png"
-        }, {
-            "vacUb": "Anew McKenzie",
-            "vacTx": "Vacanter, Digikrieger<br/>16 Jahre, Sydney<br/>Spirit der Selbstlosigkeit<br/>Schülerin<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/anew10.png"
-        }, {
-            "vacUb": "Aoki Izumi",
-            "vacTx": "Vacanter, Zivilist<br/>15 Jahre, Reisend<br/>///<br/>Schüler & Zirkusartist<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/aoki10.png"
-        }, {
-            "vacUb": "Choko Fujiya",
-            "vacTx": "Vacanter, Digiritter<br/>32 Jahre, Tokyo<br/>Wappen der Sorglosigkeit<br/>Verkäuferin & Vtuber<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/choko10.png"
-        }, {
-            "vacUb": "Cole Maekawa",
-            "vacTx": "Vacanter, Digiritter<br/>21 Jahre, Sydney<br/>Wappen der Lebensfreude<br/>Cafébesitzer & Student<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/cole10.png"
-        }, {
-            "vacUb": "Daryan Fires",
-            "vacTx": "Vacanter, Digiritter<br/>22 Jahre, Manhatten<br/>Wappen der Tapferkeit<br/>Skifahrer<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/daryan10.png"
-        }, {
-            "vacUb": "Felix Winter",
-            "vacTx": "Vacanter, Digiritter<br/>19 Jahre, Tokio<br/>Wappen der Freundschaft<br/>Koch<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/felix10.png"
-        }, {
-            "vacUb": "Florian Niwa",
-            "vacTx": "Vacanter, Digikrieger<br/>27 Jahre, Sydney<br/>Spirit der Fragilität<br/>Künstler<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/floria10.png"
-        }, {
-            "vacUb": "Gil Statice",
-            "vacTx": "Vacanter, Digikrieger<br/>18 Jahre, Tokyo<br/>Spirit der Schuld<br/>Spieletester & Schüler<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/gil10.png"
-        }, {
-            "vacUb": "Gin",
-            "vacTx": "Vacanter, Zeitlos<br/>23 Jahre, Kyoto<br/>Spirit der Spiritualität<br/>Schrein- & Tempelpriester<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/gin10.png"
-        }, {
-            "vacUb": "Goro",
-            "vacTx": "Vacanter, Zeitlos<br>27 Jahre, Tokio<br>Spirit der Entspannung<br>Auftragsarbeiter<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/goro10.png"
-        }, {
-            "vacUb": "Guilmon X",
-            "vacTx": "Vacanter, Digimon<br/>//, reisend<br/>Spirit der Emotionslosigkeit<br/>Auftragsjäger<br/>Teil von Viscientia",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/guilmo10.png"
-        }, {
-            "vacUb": "Illarion Velikov",
-            "vacTx": "Vacanter, Zivilist<br/>28 Jahre, Sofia<br/>///<br/>Wissenschaftler<br/>Teil von Viscientia",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/illari10.png"
-        }, {
-            "vacUb": "Joey Norberg",
-            "vacTx": "Vacanter, Digiritter<br/>22 Jahre, Skarsvag<br/>Wappen der Erkenntnis<br/>Skifahrer & Drucktechniker<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/joey10.png"
-        }, {
-            "vacUb": "Jovan",
-            "vacTx": "Vacanter, Zeitlos<br/>22 Jahre, Reisend<br/>Spirit der Negligenz<br/>Arbeitslos<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/jovan10.png"
-        }, {
-            "vacUb": "Kato Saito",
-            "vacTx": "Vacanter, Zivilist<br/>17 Jahre, Tokyo<br/>///<br/>Schüler<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/kato10.png"
-        }, {
-            "vacUb": "Liliana Bishop",
-            "vacTx": "Vacanter, Digikrieger<br/>26 Jahre, Las Vegas<br/>Spirit der Verzweiflung<br/>Model & Schauspielagentur<br>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/lilian10.png"
-        }, {
-            "vacUb": "Lilith",
-            "vacTx": "Vacanter, Zeitlos<br/>23 Jahre, Reisend<br/>Spirit der Dunkelheit<br/>Arbeitslos<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/lilith10.png"
-        }, {
-            "vacUb": "Logan Sunfield",
-            "vacTx": "Vacanter, Digiritter<br/>22 Jahre, Stockholm<br/>Wappen der Hartnäckigkeit<br/>Sportsoldat<br/>Keine Untergruppe",
-            "vacPic": "https://i89.servimg.com/u/f89/17/70/12/89/logan10.png"
-        }, {
-            "vacUb": "Mepuru",
-            "vacTx": "Vacanter, Digimon<br>//, Tokio<br>Wappen der Liebe<br>Darstellerin Freizeitpark<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/mepuru10.png"
-        }, {
-            "vacUb": "Mineko",
-            "vacTx": "Vacanter, Zeitlos<br>31 Jahre, Tokio<br>Spirit der Ampathie<br>Kindergärtnerin<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/mineko10.png"
-        }, {
-            "vacUb": "Nikki",
-            "vacTx": "Vacanter, Zeitlos<br>20 Jahre, Tokio<br>Spirit der Zuneigung<br>Influencer & Streamer<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/nikki10.png"
-        }, {
-            "vacUb": "Noelle Lavigne",
-            "vacTx": "Vacanter, Digiritter<br>28 Jahre, Las Vegas<br>Wappen der Korruption<br>Stabsoffizier der Marine<br>Iron Hold",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/noelle12.png"
-        }, {
-            "vacUb": "Phoenix Izumi",
-            "vacTx": "Vacanter, Digikrieger<br>21 Jahre, Tokio<br>Spirit des Hedonismus<br>Student<br>Bündnis Eden",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/phoeni10.png"
-        }, {
-            "vacUb": "Rymea",
-            "vacTx": "Vacanter, Zeitlos<br>16 Jahre, Digiwelt<br>Spirit des Windes<br>Schülerin<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/rymea10.png"
-        }, {
-            "vacUb": "Saphira",
-            "vacTx": "Vacanter, Zeitlos<br>25 Jahre, New Yoru<br>Spirit des Feuers<br>Teehändlerin<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/saph10.png"
-        }, {
-            "vacUb": "Selvaggia Samra",
-            "vacTx": "Vacanter, Digiritter<br>16 Jahre, Escalades-Engordany<br>Wappen der Transparenz<br>Schülerin<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/selv10.png"
-        }, {
-            "vacUb": "Sharlana",
-            "vacTx": "Vacanter, Zeitlos<br>17 Jahre, Tokio<br>Spirit der Naivität<br>Mädchen für alles<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/sharla10.png"
-        }, {
-            "vacUb": "Thea Y. Birnbaum",
-            "vacTx": "Vacanter, Digiritter<br>12 Jahre, Tokio<br>Wappen der Verbundenheit<br>Schülerin<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/thea10.png"
-        }, {
-            "vacUb": "Trefford Vivas",
-            "vacTx": "Vacanter, Digikrieger<br>20 Jahre, Sydney<br>Spirit des Schutzes<br>Student Meeresbiologie<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/treffo10.png"
-        }, {
-            "vacUb": "Valu DBD Knezevic",
-            "vacTx": "Vacanter, Digikrieger<br>22 Jahre, reisend<br>Spirit der Risikobereitschaft<br>Arbeitslos<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/valu10.png"
-        }, {
-            "vacUb": "Wilhelmina Lanskaya",
-            "vacTx": "Vacanter, Digikrieger<br>16 Jahre, London<br>Wappen der Zufriedenheit<br>Schülerin<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/wilhel10.png"
-        }, {
-            "vacUb": "Yuna Sasaki",
-            "vacTx": "Vacanter, Zivilist<br>28 Jahre, Tokio<br>//<br>Psychotherapeutin<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/yuna10.png"
-        }, {
-            "vacUb": "Zelda",
-            "vacTx": "Vacanter, Digimon<br>//, reisend<br>Spirit der Reflexion<br>Arbeitslos<br>Keine Untergruppe",
-            "vacPic": "https://i49.servimg.com/u/f49/15/65/71/86/zelda10.png"
-        }
+    "digizivi": [{
+            "digiUb": "Guilmon X",
+            "digiTx": "kein Alter definiert<br/>Reist durch die Welt<br/>Spirit der Emotionslosigkeit<br/>Auftragsjäger<br/>Viscientia",
+            "digiPic": "https://i89.servimg.com/u/f89/17/70/12/89/guilmo10.png"
+        },	{
+            "digiUb": "Illarion Velikov",
+            "digiTx": "28 Jahre alt<br/>Wohnt in Sofia<br/>///<br/>Wissenschaftler<br/>Viscientia",
+            "digiPic": "https://i89.servimg.com/u/f89/17/70/12/89/illari10.png"
+        },	{
+            "digiUb": "Kato Saito",
+            "digiTx": "17 Jahre alt<br/>Wohnt in Tokyo<br/>///<br/>Schüler<br/>Keine Untergruppe",
+            "digiPic": "https://i89.servimg.com/u/f89/17/70/12/89/kato10.png"
+        },	{
+            "digiUb": "Nee",
+            "digiTx": "kein Alter definiert<br>Reist durch die Welt<br>Spirit der Erde<br>Nichtsnutz<br>Keine Untergruppe",
+            "digiPic": "https://i49.servimg.com/u/f49/15/65/71/86/nee10.png"
+        },	{
+            "digiUb": "Patch",
+            "digiTx": "kein Alter definiert<br>Wohnt in Halloween Town<br>Wappen des Schabernacks<br>Feldgeist & Urban Legend<br>Keine Untergruppe",
+            "digiPic": "https://i49.servimg.com/u/f49/15/65/71/86/patch10.png"
+        },	{
+            "digiUb": "Sting",
+            "digiTx": "kein Alter definiert<br>Wohnt in Leidia<br>Spirit der Stärke<br>Ausbildner<br>Keine Untergruppe",
+            "digiPic": "https://i49.servimg.com/u/f49/15/65/71/86/sting10.png"
+        },	{
+            "digiUb": "Yuna Sasaki",
+            "digiTx": "28 Jahre alt<br>Wohnt in Tokio<br>//<br>Psychotherapeutin<br>Keine Untergruppe",
+            "digiPic": "https://i49.servimg.com/u/f49/15/65/71/86/yuna10.png"
+        } 
     ]
 }
